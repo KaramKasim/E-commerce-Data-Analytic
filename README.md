@@ -1,5 +1,4 @@
 # E-commerce-Data-Analytic
-Data Analytic assignment of e commerce sale for a retailer in Uk using python<br>
 
 This dataset is derived from kaggle. It is consist of more than 500,000 rows and 8 columns of data from 1/12/2010 to 09/12/2011<br>
 
